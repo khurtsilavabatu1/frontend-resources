@@ -38,6 +38,22 @@
 |---|---|
 | https://tailwindcss.com/docs | Tailwind CSS |
 | https://ui.shadcn.com | shadcn/ui: UI კომპონენტები |
+| https://mui.com/material-ui/getting-started/ | Material UI (MUI): UI კომპონენტები |
+
+## ჩარტები და ვიზუალიზაცია
+
+| ლინკი | რაზეა |
+|---|---|
+| https://www.chartjs.org/docs/latest/ | Chart.js: ჩარტები |
+| https://react-chartjs-2.js.org | react-chartjs-2: Chart.js-ის React wrapper |
+| https://recharts.org | Recharts: React-ის ჩარტები |
+
+## მრავალენოვნება (i18n)
+
+| ლინკი | რაზეა |
+|---|---|
+| https://www.i18next.com | i18next: თარგმანები და მრავალენოვნება |
+| https://react.i18next.com | react-i18next: i18next React-ში |
 
 ## ტესტირება
 
