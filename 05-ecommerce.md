@@ -36,4 +36,4 @@
 
 ---
 
-[← წინა: ავტორიზაცია](04-authentication.md) · [მთავარი](README.md)
+[← წინა: ავტორიზაცია](04-authentication.md) · [მთავარი](README.md) · [შემდეგი: ინტერვიუ →](06-interview-preparation.md)

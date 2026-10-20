@@ -9,6 +9,9 @@
 3. [React პროექტი და ბიბლიოთეკები](03-react-and-libraries.md)
 4. [ავტორიზაციის ფლოუ ფრონტენდ დეველოპერისთვის](04-authentication.md)
 5. [E-commerce ვებგვერდი ფრონტენდ დეველოპერისთვის](05-ecommerce.md)
+6. [ინტერვიუსთვის მომზადება](06-interview-preparation.md)
+7. [ლაივ კოდინგი](07-live-coding.md)
+8. [პორტფოლიო და სამსახურის ძებნა](08-portfolio-and-job-search.md)
 
 ---
 
